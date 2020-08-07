@@ -1,6 +1,6 @@
 # lttr
 
-# Blog posts
+## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [About software gardening](https://lukastrumm.com/articles/software-engineering/)
